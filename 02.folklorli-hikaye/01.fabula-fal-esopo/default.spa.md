@@ -14,7 +14,7 @@ taxonomy:
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
     
-Utaravento ji Sola debate ku kete sen maxmo bala, denwatu hu daoyen preata koberido in termopul kapa. Ete sohovada ki dente hu da unyum kosa ki daoyen ofplasi sesu kapa ingay na bekolyo maxmo bala kom alote. Denwatu, Utaravento vento yon sesu total balaya, mas folki te max vento, daoyen maxmo tange koberi se yon kapa; ji fe fini, Utaravento esto na xidu. Denwatu, Sola termopul xorbrila, ji fori, daoyen ofplasi sesu kapa; ji fe folo, Utaravento bexucyo na etiraf ki Sola sen maxim bala te of dua te.
+Utaravento ji Sola debate ku kete sen maxmo bala, denwatu hu daoyen preata koberido in termopul kapa. Ete sohovada ki dente hu da unyum kosa ki daoyen ofplasi sesu kapa ingay na beganci na sen maxmo bala kom alo te. Denwatu, Utaravento vento yon sesu total balaya, mas folki te max vento, daoyen maxmo tange koberi se yon kapa; ji fe fini, Utaravento esto na xidu. Denwatu, Sola termopul xorbrila, ji fori, daoyen ofplasi sesu kapa; ji fe folo, Utaravento bexucyo na etiraf ki Sola sen maxim bala te of dua te.
 
 ### Singa ji Maux
 

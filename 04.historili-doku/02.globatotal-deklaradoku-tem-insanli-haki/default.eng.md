@@ -22,14 +22,14 @@ Fe folo ki swikara fe benjili sungen ji fe egal ji awcudunenible haki de moy mem
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Fe folo ki posjui ji posjacigi fe insanli haki le resulta daybawlupul fale hu da bala cufam yoxin de insanlari, ji fe folo ki realcu de globa hu in da insan xa furaha huruya fe vyata ji fe imanu ji pia huruya of fobi ji of haja le begongaw denpul kom maxim gao cele de ordinari insan, 
+Fe folo ki posjui ji posjacigi fe insanli haki le resulta daybawlupul fale hu da bala cufam yoxin de insanlari, ji fe folo ki realcu de globa hu in da insan xa befuraha huruya fe vyata ji fe imanu ji pia huruya of fobi ji of haja le begongaw denpul kom maxim gao cele de ordinari insan, 
 
  <audio controls>
  <source preload="none" src="/historili-doku/globatotal-deklaradoku-tem-insanli-haki/gdih lefelexi 03.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Fe folo ki to sen daymuhim, eger insan am no bemusigi, denpul kom finili seleti, na panlan anti bawlukrasi ji infrapel, ki insanli haki am begardi yon lega,
+Fe folo ki to sen daymuhim, eger insan am no bemusigi, denpul kom finili seleti, na panlan anti bawlukrasi ji infragi, ki insanli haki am begardi yon lega,
     
  <audio controls>
  <source preload="none" src="/historili-doku/globatotal-deklaradoku-tem-insanli-haki/gdih lefelexi 04.mp3" type="audio/mp3" />
@@ -341,7 +341,7 @@ Moyte haki rahatu ji huru watu, fe inkludi fe rasonapul limitexey fe ergoli satu
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-(1) Moyte haki na huru rol in kulturali jiwa de komuntim, na furaha arte ji na rol in syensili frongi ji tosu fayda.
+(1) Moyte haki na huru rol in kulturali jiwa de komuntim, na befuraha arte ji na rol in syensili frongi ji tosu fayda.
 
 (2) Moyte haki gardi fe dodukuli ji maderili muhimxey hu da resulta of he ban syensili, literaturli or arteli produti hu te le krea da.
 
