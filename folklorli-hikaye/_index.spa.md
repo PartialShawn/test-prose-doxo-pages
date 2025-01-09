@@ -1,8 +1,5 @@
 ---
 title: 'Cuentos populares'
-taxonomy:
-    category:
-        - 'Folk Tales'
 ---
 
 * [Fábulas de Esopo](fabula-fal-esopo)

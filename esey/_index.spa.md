@@ -1,6 +1,5 @@
 ---
 title: Ensayos
-media_order: 'am eskri jandan 01.mp3,am eskri jandan 02.mp3,am eskri jandan 03.mp3,am eskri jandan 04.mp3,am eskri jandan 05.mp3,am eskri jandan 06.mp3,am eskri jandan 07.mp3,am eskri jandan 08.mp3,am eskri jandan 09.mp3,am eskri jandan 10.mp3,am eskri jandan 11.mp3,am eskri jandan 12.mp3,am eskri jandan 13.mp3'
 ---
 
 # Esey

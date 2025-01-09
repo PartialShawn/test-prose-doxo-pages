@@ -1,7 +1,5 @@
 ---
 title: Memes
-media_order: 'kemo lawo.png,globasa-mi-dur-din.jpeg'
-published: false
 ---
 
 <img src="/user/pages/05.mimu/globasa-mi-dur-din.jpeg" class="imgFocus">  

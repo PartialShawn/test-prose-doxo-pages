@@ -1,7 +1,5 @@
 ---
 title: Canciones
-primaryImage: {  }
-media_order: 'dukopi 01.mp3,dukopi 02.mp3,dukopi 03.mp3,dukopi 04.mp3'
 ---
 
 # Lala
