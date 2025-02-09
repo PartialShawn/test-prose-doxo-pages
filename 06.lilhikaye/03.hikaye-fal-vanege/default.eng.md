@@ -541,7 +541,7 @@ Abruto, okresim sadafa de Okreyen kasiru. Te oko ki tesu baytu awsokutu fe multi
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Sadafakal solo-krabe paniko. Solo-krabe haja bala dalutul cel na gardi sesu daif ji xetocubon fubu. Ji fe nunya plu maso-yamne hewan ata. Fori hala behaja cel na no morcu.
+Sadafakal solo-krabe paniko. Solo-krabe haja bala dalutul cel na gardi sesu daifu ji xetocubon fubu. Ji fe nunya plu maso-yamne hewan ata. Fori hala behaja cel na no morcu.
 
 <audio controls>
  <source src="/lilhikaye/hikaye-fal-vanege/solokrabe 08.mp3" type="audio/mp3" />
