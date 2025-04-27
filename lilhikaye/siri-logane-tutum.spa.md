@@ -1,7 +1,5 @@
 ---
 title: 'El corazón delator, de Edgar Allan Poe'
-date: '18:18 04-03-2025'
-published: true
 ---
 
 ### [Siri-Logane Tutum](Siri-Logane%2520Tutum.pdf)

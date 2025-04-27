@@ -1,8 +1,5 @@
 ---
 title: 'The Tell-Tale Heart, by Edgar Allan Poe'
-date: '18:18 04-03-2025'
-published: true
-media_order: Siri-Logane%20Tutum.pdf
 ---
 
 ### [Siri-Logane Tutum](Siri-Logane%2520Tutum.pdf)
