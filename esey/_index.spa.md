@@ -27,7 +27,7 @@ Denpul eskri sen maxmo asan na doxo, ji folki banto sen maxmo asan na doxo, doxo
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Ji ete xa maxmo lungo doxo. Energi de maxori doxoyen filya na daifcu xafe na doxo bage of makale or esey. Eger doxoli motsu sen kufimo xosu, max te duregi finfe fini.
+Ji ete xa maxmo lungo doxo. Energi de maxori doxoyen filya na daifucu xafe na doxo bage of makale or esey. Eger doxoli motsu sen kufimo xosu, max te duregi finfe fini.
 
 <audio controls>
  <source src="/esey/am eskri jandan 04.mp3" type="audio/mp3" />
