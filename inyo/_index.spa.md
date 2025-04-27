@@ -49,12 +49,8 @@ title: Citas
 </audio>
 
 <!-- -->
-> **Am hurugi yu of sikoli gulamya. Sol seli imi abil na hurugi sesu siko.**  
+> **Am hurugi yu of sikoli gulamya. Sol he imi abil na hurugi sesu siko.**  
 “Emancípate de la esclavitud mental. Nadie más que nosotros puede liberar nuestras mentes.”  
 ― Bob Marley
-<audio controls>
- <source src="/inyo/Marley.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
 
 Visita el [subreddit](https://www.reddit.com/r/Globasa/) de Globasa para ver otras [citas](https://www.reddit.com/r/Globasa/?f=flair_name%3A%22Inyo%20%E2%80%94%20Quote%22).
