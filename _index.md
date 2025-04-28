@@ -1,6 +1,6 @@
 ---
 title: 'Doxo'
-template: "docs/section.html"
+template: "langs.html"
 ---
 
 Practice your Globasa reading and comprehension:

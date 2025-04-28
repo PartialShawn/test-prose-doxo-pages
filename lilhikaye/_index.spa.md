@@ -1,7 +1,4 @@
 ---
 title: 'Cuentos cortos'
+template: 'docs/section.html'
 ---
-
-* [Otros cuentos](alo-hikaye)
-* [Cuentos de Vanege](hikaye-fal-vanege)
-* [El corazón delator de Edgar Allan Poe](siri-logane-tutum)

@@ -1,6 +1,4 @@
 ---
 title: 'Documentos históricos'
+template: 'docs/section.html'
 ---
-
-* [Literatura espiritual](ruhologili-literatur)
-* [Declaración universal de derechos humanos](globatotal-deklaradoku-tem-insanli-haki)

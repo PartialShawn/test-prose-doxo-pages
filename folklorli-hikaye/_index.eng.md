@@ -1,7 +1,4 @@
 ---
 title: Folktales
+template: 'docs/section.html'
 ---
-
-* [Aesop's Fables](fabula-fal-esopo)
-* [Fairy Tales](pearili-hikaye)
-* [Other Folktales](alo-folklorli-hikaye)
