@@ -1,7 +1,7 @@
 prose:
  # rooturl: 'folklorli-hikaye'
  metadata:
-  "": &default_settings
+  "esey":
    - name: "title"
      field:
       element: "text"
@@ -19,7 +19,7 @@ prose:
       element: "checkbox"
       label: "Published"
       value: false
-  "esey": *default_settings
+  "esey1": *default_settings
   "folklorli-hikaye": *default_settings
   "historili-doku": *default_settings
   "humorxey": *default_settings
@@ -27,6 +27,3 @@ prose:
   "lala": *default_settings
   "lilhikaye": *default_settings
   "mimu": *default_settings
-  
-  
-  
