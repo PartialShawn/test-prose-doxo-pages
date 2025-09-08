@@ -1,4 +1,5 @@
 ---
+title: 'test post'
 ---
 ## A New Post
 
