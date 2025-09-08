@@ -1,7 +1,7 @@
 prose:
  # rooturl: 'folklorli-hikaye'
  metadata:
-  esey:
+  folklorli-hikaye:
    - name: "title"
      field:
       element: "text"
@@ -14,8 +14,9 @@ prose:
       label: "Add Categories"
       placeholder: "Add Categories"
       alterable: true
-   - name: "published"
+   - name: "A test"
      field:
-      element: "checkbox"
-      label: "Published"
-      value: false
+      element: "text"
+      label: "Post title"
+      placeholder: "Title"
+      alterable: true
