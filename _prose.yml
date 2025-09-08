@@ -1,30 +1,10 @@
+---
+title: ''
+published: false
+---
 prose:
  metadata:
-  folklorli-hikaye:
-   - name: "title"
-     field:
-      element: "text"
-      label: "Post title"
-      placeholder: "Title"
-      alterable: true
-   - name: "category"
-     field:
-      element: "multiselect"
-      label: "Add Categories"
-      placeholder: "Add Categories"
-      alterable: true
-   - name: "template"
-     field:
-      element: "text"
-      label: "Document template"
-      placeholder: "docs/page.html"
-      alterable: true
-   - name: "published"
-     field:
-      element: "checkbox"
-      label: "Published"
-      value: false
-  esey: &default_settings
+  "": &default_settings
    - name: "title"
      field:
       element: "text"
@@ -49,4 +29,10 @@ prose:
       label: "Published"
       value: false
   humorxey: *default_settings
-  "": *default_settings
+  esey: *default_settings
+  folklorli-hikaye: *default_settings
+  historili-doku: *default_settings
+  inyo: *default_settings
+  lala: *default_settings
+  lilhikaye: *default_settings
+  mimu: *default_settings
