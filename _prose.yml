@@ -8,3 +8,9 @@ prose:
       label: "Post title"
       placeholder: "Title"
       alterable: true
+   - name: "categories"
+     field:
+      element: "multiselect"
+      label: "Add Categories"
+      placeholder: "Add Categories"
+      alterable: true
