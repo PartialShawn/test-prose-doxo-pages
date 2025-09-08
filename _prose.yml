@@ -15,7 +15,12 @@ prose:
       alterable: true
    - name: "A test"
      field:
-      element: "text"
-      label: "Post title"
-      placeholder: "Title"
-      alterable: true
+       element: "text"
+       label: "Post title"
+       placeholder: "Title"
+       alterable: true
+    - name: "published"
+      field:
+       element: "checkbox"
+       label: "Published"
+       value: false
