@@ -1,5 +1,5 @@
 prose:
- rooturl: 'folklorli-hikaye'
+ # rooturl: 'folklorli-hikaye'
  metadata:
   folklorli-hikaye:
    - name: "title"
