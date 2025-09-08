@@ -14,8 +14,8 @@ prose:
       label: "Add Categories"
       placeholder: "Add Categories"
       alterable: true
-    - name: "published"
-      field:
-       element: "checkbox"
-       label: "Published"
-       value: false
+   - name: "published"
+     field:
+      element: "checkbox"
+      label: "Published"
+      value: false
