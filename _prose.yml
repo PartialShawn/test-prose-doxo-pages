@@ -24,3 +24,27 @@ prose:
       element: "checkbox"
       label: "Published"
       value: false
+  esey:
+   - name: "title"
+     field:
+      element: "text"
+      label: "Post title"
+      placeholder: "Title"
+      alterable: true
+   - name: "category"
+     field:
+      element: "multiselect"
+      label: "Add Categories"
+      placeholder: "Add Categories"
+      alterable: true
+   - name: "template"
+     field:
+      element: "text"
+      label: "Document template"
+      placeholder: "docs/page.html"
+      alterable: true
+   - name: "published"
+     field:
+      element: "checkbox"
+      label: "Published"
+      value: false
