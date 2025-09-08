@@ -49,3 +49,4 @@ prose:
       label: "Published"
       value: false
   humorxey: *default_settings
+  "": *default_settings
