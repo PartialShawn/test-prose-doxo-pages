@@ -13,11 +13,11 @@ prose:
       label: "Add Categories"
       placeholder: "Add Categories"
       alterable: true
-   - name: "A test"
+   - name: "template"
      field:
       element: "text"
-      label: "Post title"
-      placeholder: "Title"
+      label: "Document template"
+      placeholder: "docs/page.html"
       alterable: true
    - name: "published"
      field:
