@@ -1,0 +1,10 @@
+prose:
+ rooturl: 'folklorli-hikaye'
+ metadata:
+  folklorli-hikaye:
+   - name: "title"
+     field:
+      element: "text"
+      label: "Post title"
+      placeholder: "Title"
+      alterable: true
