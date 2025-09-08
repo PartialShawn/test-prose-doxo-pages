@@ -24,7 +24,7 @@ prose:
       element: "checkbox"
       label: "Published"
       value: false
-  esey:
+  esey: &default_settings
    - name: "title"
      field:
       element: "text"
@@ -48,3 +48,4 @@ prose:
       element: "checkbox"
       label: "Published"
       value: false
+  humorxey: *default_settings
